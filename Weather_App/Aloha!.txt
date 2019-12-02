@@ -1,0 +1,21 @@
+http://api.openweathermap.org/data/2.5/forecast?id=5946768&APPID=06ee4dfaf9a7c9bdf9024604eda99160&mode=json&units=metric
+
+dt 1 = 1574802000  = 2:00 PM
+
+dt 2 = 1574812800 = 5:00 PM
+
+dt 3 = 1574823600 = 8:00 PM
+
+dt 4 = 1574834400 = 11:00 PM
+
+dt 5 = 1574845200 = 2:00 am
+
+dt 6 = 1574856000 = 5:00 AM
+
+dt 7 = 1574866800 = 8:00 AM
+
+dt 8 = 1574877600 = 11:00 AM
+
+dt 9 = 1574888400 = 2:00 PM
+
+86400000 Mili Secs in a day 86400000
